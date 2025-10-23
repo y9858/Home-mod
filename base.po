@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Weblate 5.14-dev\n"
 
-#: modules/luci-mod-status/htdocs/luci-static/resources/view/status/routesj.js
+# modules/luci-mod-status/htdocs/luci-static/resources/view/status/routesj.js
 msgid "Entry"
 msgstr "条目"
 msgid "Ingress"
