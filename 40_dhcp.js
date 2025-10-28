@@ -17,7 +17,7 @@ var callUfpList = rpc.declare({
 });
 
 return baseclass.extend({
-	title: '',
+	title: _('Leases'),
 
 	isMACStatic: {},
 	isDUIDStatic: {},
