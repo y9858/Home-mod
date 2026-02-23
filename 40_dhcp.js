@@ -12,7 +12,7 @@ var callLuciDHCPLeases = rpc.declare({
 });
 
 return baseclass.extend({
-	title: 'Leases',
+	title: _('Leases'),
 
 	isMACStatic: {},
 	isDUIDStatic: {},
