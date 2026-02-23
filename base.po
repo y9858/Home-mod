@@ -867,7 +867,7 @@ msgstr "添加新接口…"
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/repokeys.js:304
 msgid "Add new repository public key by pasting its content, a file, or a URL."
-msgstr ""
+msgstr "通过粘贴公钥内容、上传文件或输入 URL 的方式，添加新的软件源公钥。"
 
 #: protocols/luci-proto-vxlan/htdocs/luci-static/resources/protocol/vxlan.js:188
 #: protocols/luci-proto-vxlan/htdocs/luci-static/resources/protocol/vxlan6.js:188
@@ -3167,7 +3167,7 @@ msgstr "每个 STA 被分配了自己的 AP_VLAN 接口。"
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/repokeys.js:230
 msgid "Each key is stored as a file in %s."
-msgstr ""
+msgstr "每个密钥都以文件形式存储在 %s 目录下。"
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/repokeys.js:229
 msgid ""
@@ -10338,7 +10338,7 @@ msgstr "路由表"
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:247
 msgid "Table Filters"
-msgstr ""
+msgstr "表格筛选器"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/dhcp.js:1206
 msgid "Table IP family"
