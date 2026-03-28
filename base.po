@@ -2506,7 +2506,7 @@ msgstr "已发送"
 #: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/protocol/modemmanager.js:159
 #: protocols/luci-proto-yggdrasil/htdocs/luci-static/resources/protocol/yggdrasil.js:346
 msgid "Debug"
-msgstr "调试 (Debug)"
+msgstr "调试"
 
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/dmesg.js:21
 msgid "Default"
@@ -3607,7 +3607,7 @@ msgstr "擦除中…"
 #: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/protocol/modemmanager.js:156
 #: protocols/luci-proto-yggdrasil/htdocs/luci-static/resources/protocol/yggdrasil.js:343
 msgid "Error"
-msgstr "错误 (Error)"
+msgstr "错误"
 
 #: protocols/luci-proto-wireguard/htdocs/luci-static/resources/protocol/wireguard.js:156
 msgid "Error getting PublicKey"
@@ -5260,7 +5260,7 @@ msgstr "仅室内频道被选中"
 #: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/protocol/modemmanager.js:158
 #: protocols/luci-proto-yggdrasil/htdocs/luci-static/resources/protocol/yggdrasil.js:345
 msgid "Info"
-msgstr "信息 (Info)"
+msgstr "信息"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:91
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:92
@@ -12005,7 +12005,7 @@ msgstr "警告"
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js:189
 #: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/protocol/modemmanager.js:157
 msgid "Warning"
-msgstr "警告 (Warning)"
+msgstr "警告"
 
 #: modules/luci-mod-system/htdocs/luci-static/resources/view/system/reboot.js:26
 msgid "Warning: There are unsaved changes that will get lost on reboot!"
