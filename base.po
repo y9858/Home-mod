@@ -4,7 +4,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-21 06:23+0000\n"
+"PO-Revision-Date: 2026-04-20 13:23+0000\n"
 "Last-Translator: nKsyn <e.nksyn@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/openwrt/luci/zh_Hans/>\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/40_dhcp.js:15
 msgid "DHCP Leases"
@@ -706,7 +706,7 @@ msgstr "接入集中器"
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1048
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:1165
 msgid "Access Point"
-msgstr "接入点 AP"
+msgstr "接入点 (AP)"
 
 #: protocols/luci-proto-batman-adv/htdocs/luci-static/resources/protocol/batadv.js:60
 msgid "Access Point Isolation"
@@ -2696,7 +2696,7 @@ msgstr "设备正在重启…"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/tools/network.js:563
 msgid "Device name"
-msgstr "设备名称"
+msgstr "设备名"
 
 #: protocols/luci-proto-modemmanager/htdocs/luci-static/resources/protocol/modemmanager.js:10
 msgid "Device not managed by ModemManager."
@@ -5516,7 +5516,9 @@ msgstr "无效的 TOS 值，请输入 00..FF 或继承"
 #: protocols/luci-proto-gre/htdocs/luci-static/resources/protocol/grev6.js:83
 #: protocols/luci-proto-gre/htdocs/luci-static/resources/protocol/grev6tap.js:88
 msgid "Invalid Traffic Class value, expected 00..FF or inherit"
-msgstr "无效的通信类别，请输入 00..FF 或继承"
+msgstr ""
+"无效的通信类别，请输入 <code>00...FF</code> 或 <abbr title=\"继承"
+"\"><code>inherit</code></abbr>"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/switch.js:285
 msgid "Invalid VLAN ID given! Only IDs between %d and %d are allowed."
@@ -8217,7 +8219,7 @@ msgstr "Ping"
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/connections.js:138
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/iptables.js:64
 msgid "Pkts."
-msgstr "Pkts."
+msgstr "个数据包"
 
 #: modules/luci-base/ucode/template/sysauth.ut:19
 msgid "Please enter your username and password."
@@ -8675,7 +8677,7 @@ msgstr "接收丢包"
 
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/29_ports.js:246
 msgid "Receive errors"
-msgstr "接收出错"
+msgstr "接收错误"
 
 #: protocols/luci-proto-wireguard/htdocs/luci-static/resources/view/wireguard/status.js:57
 msgid "Received Data"
@@ -9679,7 +9681,7 @@ msgstr "关闭此接口"
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/60_wifi.js:281
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/60_wifi.js:287
 msgid "Signal"
-msgstr "信号"
+msgstr "信号强度"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/wireless.js:2414
 msgid "Signal / Noise"
@@ -10022,7 +10024,7 @@ msgstr "在此指定密钥。"
 
 #: modules/luci-mod-status/htdocs/luci-static/resources/view/status/include/29_ports.js:215
 msgid "Speed: %d Mibit/s, Duplex: %s"
-msgstr "速度： %d Mibit/s, 双工： %s"
+msgstr "速率： %d Mibit/s, 双工模式： %s"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/interfaces.js:1672
 msgid "Splitterless ADSL (G.992.2) Annex A"
@@ -11155,7 +11157,7 @@ msgstr "可用数"
 
 #: protocols/luci-proto-yggdrasil/htdocs/luci-static/resources/protocol/yggdrasil.js:347
 msgid "Trace"
-msgstr "追踪 (Trace)"
+msgstr "追踪"
 
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/diagnostics.js:110
 #: modules/luci-mod-network/htdocs/luci-static/resources/view/network/diagnostics.js:111
