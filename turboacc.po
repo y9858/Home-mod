@@ -693,3 +693,12 @@ msgstr "启用 IPv6 HNAT。"
 
 msgid "Default 30."
 msgstr "默认 30。"
+
+msgid "Config matches the runtime path."
+msgstr "配置与实时通路相匹配。"
+
+msgid "Runtime path does not match config."
+msgstr "配置与实时通路不匹配。"
+
+msgid "The runtime path is still active, but the current config is set to disabled."
+msgstr "实时通路仍处于生效状态，但当前配置已设置为禁用。"
